@@ -33,10 +33,11 @@ scipy==1.13.1
 six==1.16.0
 tensorboard==2.12.3
 tensorboard-data-server==0.7.2
-tensorflow==2.4.0
-tensorflow-estimator==2.4.0
-tensorflow-intel==2.4.0
-tensorflow-io-gcs-filesystem==0.31.0
+
+
+
+
+
 termcolor==2.5.0
 typing-extensions==4.12.2
 urllib3==2.2.3
